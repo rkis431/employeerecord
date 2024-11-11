@@ -1,7 +1,4 @@
 pandas
 numpy 
 streamlit
-os
 plotly
-datetime
-upgrade pip
