@@ -4,3 +4,4 @@ streamlit
 os
 plotly
 datetime
+pip install --upgrade pip
